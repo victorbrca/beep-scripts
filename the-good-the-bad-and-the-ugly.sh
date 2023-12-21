@@ -1,0 +1,37 @@
+#!/bin/bash
+
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 1071
+beep -f 587 -l 535
+beep -f 659 -l 535
+beep -f 493 -l 1071
+beep -f 0 -l 535
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 1071
+beep -f 587 -l 535
+beep -f 659 -l 535
+beep -f 987 -l 1071
+beep -f 0 -l 535
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 1071
+beep -f 587 -l 535
+beep -f 554 -l 267
+beep -f 493 -l 267
+beep -f 440 -l 1071
+beep -f 0 -l 535
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 133
+beep -f 987 -l 133
+beep -f 740 -l 1071
+beep -f 659 -l 535
+beep -f 493 -l 1606
